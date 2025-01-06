@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Bienvenue sur mon profil GitHub !
 
-<!--
-**Cypog284/Cypog284** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 À propos de moi
 
-Here are some ideas to get you started:
+Salut ! Je m'appelle **Corentin**, un passionné de **développement web et de gaming** actuellement en **BTS SIO 2ᵉ année**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎯 **Objectif actuel** : Avoir mon diplome pour continuer au CESI ! 
+- 🌱 **Ce que j'apprends en ce moment** : ollama, docker pour un project sur de l'ia via Open WebUI 
+- 💡 **Intérêts** : Création de contenu, gaming, et tout ce qui touche aux nouvelles technologies.
+
+---
+
+## 🛠️ Compétences
+
+- **Langages** : HTML, CSS, JavaScript, PHP, SQL, MAUI, C#, Python, 
+- **Frameworks** : Symfony, .net
+- **Base de données** : MYSQL, SQL SERVER(Transact-SQL, PS, TRIGGER) UML, MEURISE  
+- **Outils** : Git, Docker, VS Code
+- **Cybersécurité**
+- **Certification** : ANSSI, RGPD, PIX, IA sur Openclassroom
+- **Autres** : Gestion de projets, dépannage informatique, rédaction de documentations techniques  
+
+---
+
+## 🌐 Me retrouver
+
+- [LinkedIn]([(https://www.linkedin.com/in/corentin-dapremont-7257722a3]) 
+
+---
+
+## 📈 Statistiques GitHub
+
+![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=Cypog284&show_icons=true&theme=radical)  
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Cypog284&layout=compact&theme=radical)
+
+---
+
+### ✨ Merci d'avoir visité mon profil !
+
